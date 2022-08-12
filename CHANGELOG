@@ -1,0 +1,8 @@
+* 9/12/2019
+>>>
+Fixed a bug where bob doesn't erase a food in memory when he saw it
+Fixed a bug where bobs backtrack his position
+>>>
+
+{ -There is still a problem with bob's sentient action because things get messy when he is near the world's edge - }
+-> Will be fix in future patches

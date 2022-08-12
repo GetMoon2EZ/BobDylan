@@ -1,0 +1,11 @@
+# Don't track content of these folders #
+########################################
+venv/
+__pycache__/
+Git-Ignored/
+sample_data.txt
+.vscode/
+.idea
+ideas
+vscode
+config.cfg

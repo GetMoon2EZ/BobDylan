@@ -1,0 +1,8 @@
+# Description des éléments du flag pour la mutation
+un flag est un entier qui va sauvegarder les bouléens grâce aux puissances de 2
+1: speed
+2: mass
+4: FOV/perception 
+8: memory 
+16: nothing, but there's still room to implement stuff !
+
